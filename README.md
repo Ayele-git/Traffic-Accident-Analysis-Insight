@@ -65,9 +65,12 @@ Team Members and Roles:
 •	Tesfu Negase
 •	Aschalew Amare
 
+Please download the dataset using this link https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?select=US_Accidents_March23.csv
 
 The link for Power BI Dashboard
+
 https://app.powerbi.com/links/uefouwpzrd?ctid=fec474a1-dff4-4040-b0d6-cdd97d46b775&pbi_source=linkShare
+or
 
 https://app.powerbi.com/groups/me/reports/542058ff-6000-4a5e-8c38-f09871c78b2c/4a3b7a3ff03ca14e44a8?bookmarkGuid=1fdc2918-ea94-4611-ab64-22fc555c5d4a&bookmarkUsage=1&ctid=fec474a1-dff4-4040-b0d6-cdd97d46b775&portalSessionId=044b02ef-c82c-4c6e-af34-c4504427f709&fromEntryPoint=export
 
